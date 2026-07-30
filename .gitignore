@@ -8,3 +8,7 @@ node_modules/
 .DS_Store
 .env
 send.php
+
+# Runtime data — moved here from a placeholder path bug fix on 2026-07-30.
+# Contains TLS private keys, certs, and logs; none of it belongs in git.
+config/

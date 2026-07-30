@@ -9,7 +9,7 @@ services:
       - TZ=Etc/UTC
       - ALLOW_INTERNAL_REQUESTS=false #optional
     volumes:
-      - /path/to/heimdall/config:/config
+      - ./config:/config
     ports:
       - 9080:80
       - 9443:443
