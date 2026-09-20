@@ -1,0 +1,44 @@
+- Media & Music:
+    - Plex:
+        - icon: plex
+          href: https://app.plex.tv/desktop/#!/
+    - Overseerr:
+        - icon: overseerr
+          href: https://overseerr.lakeeffectpod.com
+    - Ultimate Guitar:
+        - icon: mdi-guitar-acoustic
+          href: https://www.ultimate-guitar.com/user/mytabs
+    - Guitar Tuner:
+        - icon: mdi-tune
+          href: https://www.dibberlab.me/guitar-tuner/
+
+- Sports & Streaming:
+    - OnHockey.TV:
+        - icon: mdi-hockey-puck
+          href: https://onhockey.tv
+    - FanDuel Sports:
+        - icon: mdi-television-play
+          href: https://fanduelsportsnetwork.com
+    - SportSurge:
+        - icon: mdi-play-network
+          href: https://v2.sportsurge.net
+
+- Everyday & Cloud:
+    - Bitwarden:
+        - icon: bitwarden
+          href: https://vault.bitwarden.com/#/vault
+    - Proton Mail:
+        - icon: proton-mail
+          href: https://mail.proton.me
+    - Google Messages:
+        - icon: mdi-message-text
+          href: https://messages.google.com/web/conversations
+    - onX Hunt:
+        - icon: mdi-map-marker-distance
+          href: https://webmap.onxmaps.com/hunt/
+    - DigitalOcean:
+        - icon: digital-ocean
+          href: https://cloud.digitalocean.com/droplets?i=3fd348&preserveScrollPosition=false
+    - Reddit:
+        - icon: reddit
+          href: https://reddit.com

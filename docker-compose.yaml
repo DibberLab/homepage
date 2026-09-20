@@ -1,16 +1,14 @@
----
 services:
-  heimdall:
-    image: lscr.io/linuxserver/heimdall:latest
-    container_name: heimdall
+  homepage:
+    image: ghcr.io/gethomepage/homepage:latest
+    container_name: homepage
     environment:
       - PUID=1000
-      - PGID=1000
-      - TZ=Etc/UTC
-      - ALLOW_INTERNAL_REQUESTS=false #optional
-    volumes:
-      - ./config:/config
+      - PGID=987
+      - HOMEPAGE_ALLOWED_HOSTS=home.dibberlab.me,127.0.0.1:9080,localhost:9080,127.0.0.1,localhost
     ports:
-      - 9080:80
-      - 9443:443
+      - 127.0.0.1:9080:3000
+    volumes:
+      - ./config:/app/config
+      - /var/run/docker.sock:/var/run/docker.sock:ro
     restart: unless-stopped
