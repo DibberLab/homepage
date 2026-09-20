@@ -3,6 +3,12 @@
         icon: mdi-wrench
         href: https://dibberlab.me
         description: 100+ Single-page web & audio tools
+    - Storage Explorer:
+        icon: mdi-chart-box-outline
+        href: https://storage.dibberlab.me
+        description: WinDirStat-style disk visualizer
+        server: my-docker
+        container: storage-explorer
     - Disc Golf Log:
         icon: mdi-disc
         href: https://disc.dibberlab.me
