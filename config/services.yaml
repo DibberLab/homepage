@@ -81,6 +81,12 @@
         description: Social listener & ambassador tracking
 
 - Websites & Foundations:
+    - Disc Jerkers:
+        icon: mdi-disc
+        href: https://discjerkers.com
+        description: Disc golf apparel storefront
+        server: my-docker
+        container: discjerkers
     - amcmorrow.com:
         icon: mdi-account
         href: https://amcmorrow.com
