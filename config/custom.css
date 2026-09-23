@@ -1,0 +1,17 @@
+/* Uniform service card sizing: reserve a fixed 2-line height for the
+   description so 1-line and 2-line entries render the same card height. */
+.service-description {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 2.4em;
+  line-height: 1.2em;
+}
+
+/* Fixed height on every card slot, whether or not it has a docker stats
+   row, so groups stay the same card height even when mixed with plain
+   (non-dockerized) entries elsewhere on the page. */
+.service {
+  min-height: 156px;
+}
