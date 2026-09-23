@@ -159,10 +159,15 @@ main {
   margin-top: 1px;
 }
 
-.empty {
+.empty,
+.loading {
   color: var(--text-dim);
   text-align: center;
   padding: 40px 0;
+}
+
+.group.is-new h2 {
+  color: var(--accent);
 }
 
 @media (max-width: 560px) {

@@ -1,0 +1,252 @@
+[
+  {
+    "group": "DibberLab Suite",
+    "items": [
+      {
+        "name": "Dibber Lab",
+        "sub": "100+ single-page web & audio tools",
+        "icon": "fa-solid fa-wrench",
+        "url": "https://dibberlab.me"
+      },
+      {
+        "name": "Storage Explorer",
+        "sub": "WinDirStat-style disk visualizer",
+        "icon": "fa-solid fa-hard-drive",
+        "url": "https://storage.dibberlab.me"
+      },
+      {
+        "name": "Disc Golf Log",
+        "sub": "Training routine tracker",
+        "icon": "fa-solid fa-stopwatch",
+        "url": "https://disc.dibberlab.me"
+      },
+      {
+        "name": "Budget",
+        "sub": "Personal budgeting & Plaid sync",
+        "icon": "fa-solid fa-money-bill-wave",
+        "url": "https://budget.dibberlab.me"
+      },
+      {
+        "name": "Skjelbo Budget",
+        "sub": "Skjelbo budget tracker",
+        "icon": "fa-solid fa-credit-card",
+        "url": "https://skjelbobudget.dibberlab.me"
+      },
+      {
+        "name": "Outline Wiki",
+        "sub": "Self-hosted knowledge base",
+        "icon": "fa-solid fa-book",
+        "url": "https://mcmorrau.dibberlab.me"
+      },
+      {
+        "name": "Void",
+        "sub": "Next.js + Prisma app",
+        "icon": "fa-solid fa-cubes",
+        "url": "https://barkbarkbark.dibberlab.me"
+      },
+      {
+        "name": "RomM",
+        "sub": "Retro gaming library manager",
+        "icon": "fa-solid fa-gamepad",
+        "url": "https://romm.dibberlab.me"
+      },
+      {
+        "name": "Uptime Kuma",
+        "sub": "Status & uptime monitoring",
+        "icon": "fa-solid fa-heart-pulse",
+        "url": "https://kuma.dibberlab.me"
+      },
+      {
+        "name": "n8n Automation",
+        "sub": "Workflow automation",
+        "icon": "fa-solid fa-robot",
+        "url": "https://n8n.dibberlab.me"
+      },
+      {
+        "name": "UniFi Network",
+        "sub": "Network controller",
+        "icon": "fa-solid fa-network-wired",
+        "url": "https://unifi.dibberlab.me"
+      }
+    ]
+  },
+  {
+    "group": "Revo Apps",
+    "items": [
+      {
+        "name": "Revo Dashboard",
+        "sub": "Operations & analytics",
+        "icon": "fa-solid fa-gauge-high",
+        "url": "https://dashboard.revo-apps.dev"
+      },
+      {
+        "name": "SEO-AIO",
+        "sub": "SEO All-in-One platform",
+        "icon": "fa-solid fa-chart-line",
+        "url": "https://seo-aio.revo-apps.dev"
+      },
+      {
+        "name": "SEO Deck",
+        "sub": "SEO deck manager",
+        "icon": "fa-solid fa-layer-group",
+        "url": "https://seodeck.revo-apps.dev"
+      },
+      {
+        "name": "Ambassador",
+        "sub": "Social listener & ambassador tracking",
+        "icon": "fa-solid fa-users",
+        "url": "https://ambassador.revo-apps.dev"
+      }
+    ]
+  },
+  {
+    "group": "Websites & Foundations",
+    "items": [
+      {
+        "name": "Disc Jerkers",
+        "sub": "Disc golf apparel storefront",
+        "icon": "fa-solid fa-shirt",
+        "url": "https://discjerkers.com"
+      },
+      {
+        "name": "amcmorrow.com",
+        "sub": "Andrew McMorrow personal site",
+        "icon": "fa-solid fa-user",
+        "url": "https://amcmorrow.com"
+      },
+      {
+        "name": "Raney Scholarship",
+        "sub": "Raney Family Scholarship",
+        "icon": "fa-solid fa-graduation-cap",
+        "url": "https://raneyfamilyscholarship.org"
+      },
+      {
+        "name": "Tjader Acres",
+        "sub": "Land & timber site",
+        "icon": "fa-solid fa-tree",
+        "url": "https://tjaderacres.com"
+      },
+      {
+        "name": "Clam Falls Flowage",
+        "sub": "Flowage association",
+        "icon": "fa-solid fa-water",
+        "url": "https://clamfallsflowage.com"
+      },
+      {
+        "name": "Fish Lake Coffee",
+        "sub": "Coffee roasters",
+        "icon": "fa-solid fa-mug-hot",
+        "url": "https://fishlakecoffee.com"
+      }
+    ]
+  },
+  {
+    "group": "Media & Music",
+    "items": [
+      {
+        "name": "Plex",
+        "icon": "fa-solid fa-film",
+        "url": "https://app.plex.tv/desktop/#!/"
+      },
+      {
+        "name": "Overseerr",
+        "icon": "fa-solid fa-download",
+        "url": "https://overseerr.lakeeffectpod.com"
+      },
+      {
+        "name": "Ultimate Guitar",
+        "icon": "fa-solid fa-music",
+        "url": "https://www.ultimate-guitar.com/user/mytabs"
+      },
+      {
+        "name": "Guitar Tuner",
+        "icon": "fa-solid fa-sliders",
+        "url": "https://www.dibberlab.me/guitar-tuner/"
+      }
+    ]
+  },
+  {
+    "group": "Sports & Streaming",
+    "items": [
+      {
+        "name": "OnHockey.TV",
+        "icon": "fa-solid fa-hockey-puck",
+        "url": "https://onhockey.tv"
+      },
+      {
+        "name": "FanDuel Sports",
+        "icon": "fa-solid fa-tv",
+        "url": "https://fanduelsportsnetwork.com"
+      },
+      {
+        "name": "SportSurge",
+        "icon": "fa-solid fa-circle-play",
+        "url": "https://v2.sportsurge.net"
+      }
+    ]
+  },
+  {
+    "group": "Everyday & Cloud",
+    "items": [
+      {
+        "name": "Bitwarden",
+        "icon": "fa-solid fa-shield-halved",
+        "url": "https://vault.bitwarden.com/#/vault"
+      },
+      {
+        "name": "Proton Mail",
+        "icon": "fa-solid fa-envelope",
+        "url": "https://mail.proton.me"
+      },
+      {
+        "name": "Google Messages",
+        "icon": "fa-solid fa-comment-dots",
+        "url": "https://messages.google.com/web/conversations"
+      },
+      {
+        "name": "onX Hunt",
+        "icon": "fa-solid fa-location-dot",
+        "url": "https://webmap.onxmaps.com/hunt/"
+      },
+      {
+        "name": "DigitalOcean",
+        "icon": "fa-solid fa-cloud",
+        "url": "https://cloud.digitalocean.com/droplets?i=3fd348&preserveScrollPosition=false"
+      },
+      {
+        "name": "Reddit",
+        "icon": "fa-brands fa-reddit-alien",
+        "url": "https://reddit.com"
+      }
+    ]
+  },
+  {
+    "group": "New \u2014 needs review",
+    "items": [
+      {
+        "name": "ambassador.dibberlab.me",
+        "sub": "Auto-discovered \u2014 pick a real name/icon/group",
+        "icon": "fa-solid fa-circle-question",
+        "url": "https://ambassador.dibberlab.me"
+      },
+      {
+        "name": "dashboard.dibberlab.me",
+        "sub": "Auto-discovered \u2014 pick a real name/icon/group",
+        "icon": "fa-solid fa-circle-question",
+        "url": "https://dashboard.dibberlab.me"
+      },
+      {
+        "name": "seo-aio.dibberlab.me",
+        "sub": "Auto-discovered \u2014 pick a real name/icon/group",
+        "icon": "fa-solid fa-circle-question",
+        "url": "https://seo-aio.dibberlab.me"
+      },
+      {
+        "name": "seodeck.dibberlab.me",
+        "sub": "Auto-discovered \u2014 pick a real name/icon/group",
+        "icon": "fa-solid fa-circle-question",
+        "url": "https://seodeck.dibberlab.me"
+      }
+    ]
+  }
+]
