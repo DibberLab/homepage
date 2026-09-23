@@ -1,9 +1,9 @@
 services:
-  homer:
-    image: b4bz/homer:latest
-    container_name: homer
+  dashboard:
+    image: nginx:alpine
+    container_name: home-dashboard
     restart: unless-stopped
     ports:
-      - "127.0.0.1:9080:8080"
+      - "127.0.0.1:9080:80"
     volumes:
-      - ./assets:/www/assets
+      - ./public:/usr/share/nginx/html:ro
