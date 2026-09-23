@@ -1,14 +1,9 @@
 services:
-  homepage:
-    image: ghcr.io/gethomepage/homepage:latest
-    container_name: homepage
-    environment:
-      - PUID=1000
-      - PGID=987
-      - HOMEPAGE_ALLOWED_HOSTS=home.dibberlab.me,127.0.0.1:9080,localhost:9080,127.0.0.1,localhost
-    ports:
-      - 127.0.0.1:9080:3000
-    volumes:
-      - ./config:/app/config
-      - /var/run/docker.sock:/var/run/docker.sock:ro
+  homer:
+    image: b4bz/homer:latest
+    container_name: homer
     restart: unless-stopped
+    ports:
+      - "127.0.0.1:9080:8080"
+    volumes:
+      - ./assets:/www/assets

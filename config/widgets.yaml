@@ -1,9 +1,0 @@
-- resources:
-    cpu: true
-    memory: true
-    disk: /
-    label: DibberLab Droplet
-- search:
-    provider: google
-    target: _blank
-    show: true
